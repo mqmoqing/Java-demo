@@ -1,4 +1,4 @@
-package com.spring.netty;
+package com.spring.netty.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
